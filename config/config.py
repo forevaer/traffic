@@ -2,6 +2,9 @@ import torch
 from config.enum import PHASE, OPTIMIZER, LOSS
 from torch import optim, nn
 
+
+draw = True
+draw_count = 30
 resize_H = 200
 resize_W = resize_H
 resize = resize_H, resize_W
@@ -18,17 +21,17 @@ predict_images = [
 ]
 model_path = '../pts/model.pt'
 # ====
-train_batch = 17
+train_batch = 5
 train_shuffle = True
 train_epoch = 1000
 test_epoch = 10
 test_batch = 20
 test_shuffle = False
 # ====
-phase = PHASE.PREDICT
+phase = PHASE.TRAIN
 # ====
 learn_rate = 0.0001
-momentum = 0.8
+momentum = 0.9
 default_optimizer = OPTIMIZER.ADAM
 default_loss = LOSS.CE
 # ===
