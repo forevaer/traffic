@@ -9,7 +9,10 @@ class Net(Module):
     def __init__(self):
         super(Net, self).__init__()
         # 3->10; (200 - 5)/2 + 1 = 98
-        self.layer_1_conv = Conv2d(3, 10, 5, 2, 0)
+        # 三通道，由于样本的局限，对颜色较为敏感，后续采用灰度图像，降低对颜色依赖
+        # self.layer_1_conv = Conv2d(1, 10, 5, 2, 0)
+        # 3->10; (200 - 5)/2 + 1 = 98
+        self.layer_1_conv = Conv2d(config.input_channel(), 10, 5, 2, 0)
         self.layer_1_bn = BatchNorm2d(10)
         self.layer_1_relu = PReLU()
         # 10->30; 98 - 3 + 1 = 96

@@ -33,8 +33,9 @@ def get_loader():
 
 
 def prepare_model(model: torch.nn.Module):
-    if os.path.exists(config.model_path):
-        model.load_state_dict(torch.load(config.model_path))
+    model_path = config.model_path()
+    if os.path.exists(model_path):
+        model.load_state_dict(torch.load(model_path))
     return model
 
 

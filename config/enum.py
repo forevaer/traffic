@@ -23,3 +23,13 @@ class LOSS(Enum):
     CE = 'ce'
 
 
+@unique
+class IMAGE(Enum):
+    RGB = 'RGB'
+    L = 'L'
+
+
+@unique
+class SWITCH(Enum):
+    ON = True
+    OFF = False
