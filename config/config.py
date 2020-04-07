@@ -5,8 +5,8 @@ from torch import optim, nn
 draw = True
 draw_count = 30
 # 对于三色通道，对于预测错误样本损失通过权值放大，达到对颜色敏感的降低，后采用灰度图直接推理，摒弃颜色影响
-image_format = IMAGE.L
-weight_switch_on = SWITCH.ON
+image_format = IMAGE.RGB
+weight_switch_on = SWITCH.OFF
 positive_weight = 10
 negative_weight = 30
 normal_weight = 10
@@ -30,17 +30,17 @@ predict_images = [
     '../data/test/00042/00042_1.png',
 ]
 # ====
-train_batch = 17
+train_batch = 200
 train_shuffle = True
 train_epoch = 1000
 test_epoch = 10
 test_batch = 20
 test_shuffle = True
 # ====
-phase = PHASE.TEST
+phase = PHASE.TRAIN
 # ====
 learn_rate = 0.0001
-momentum = 0.8
+momentum = 0.9
 default_optimizer = OPTIMIZER.MOMENTUM
 default_loss = LOSS.CE
 # ===

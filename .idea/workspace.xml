@@ -3,7 +3,187 @@
   <component name="ChangeListManager">
     <list default="true" id="8c8ac5fe-2b32-4b17-be50-5b047c42a06e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00000/00000_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00001/00001_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00001/00001_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00001/00001_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00002/00002_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00003/00003_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00004/00004_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00005/00005_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00006/00006_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00007/00007_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00007/00007_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00007/00007_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00008/00008_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00008/00008_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00010/00010_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00012/00012_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00013/00013_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00013/00013_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00013/00013_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00014/00014_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00016/00016_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00017/00017_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00018/00018_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00019/00019_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00020/00020_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00020/00020_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00020/00020_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00021/00021_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00021/00021_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00022/00022_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00023/00023_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00024/00024_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00025/00025_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00027/00027_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00027/00027_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00028/00028_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00028/00028_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00029/00029_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00029/00029_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00030/00030_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00031/00031_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00032/00032_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00032/00032_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00032/00032_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00034/00034_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00034/00034_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00034/00034_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00035/00035_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00035/00035_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00037/00037_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00038/00038_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00039/00039_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00040/00040_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00041/00041_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00042/00042_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00042/00042_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00043/00043_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00044/00044_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00044/00044_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00044/00044_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00045/00045_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00045/00045_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00046/00046_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00047/00047_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00049/00049_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00051/00051_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00053/00053_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00054/00054_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00055/00055_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00056/00056_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00056/00056_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00056/00056_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00057/00057_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00058/00058_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00058/00058_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00059/00059_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00059/00059_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00060/00060_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/00061/00061_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00000/00000_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00000/00000_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00001/00001_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00001/00001_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00001/00001_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00002/00002_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00003/00003_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00004/00004_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00005/00005_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00006/00006_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00007/00007_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00007/00007_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00007/00007_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00008/00008_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00009/00009_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00009/00009_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00009/00009_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00010/00010_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00011/00011_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00012/00012_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00013/00013_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00013/00013_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00013/00013_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00014/00014_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00015/00015_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00015/00015_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00016/00016_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00017/00017_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00018/00018_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00019/00019_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00019/00019_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00020/00020_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00020/00020_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00021/00021_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00021/00021_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00022/00022_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00022/00022_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00023/00023_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00024/00024_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00025/00025_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00026/00026_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00026/00026_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00026/00026_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00027/00027_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00027/00027_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00028/00028_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00028/00028_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00029/00029_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00030/00030_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00031/00031_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00032/00032_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00032/00032_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00032/00032_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00033/00033_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00034/00034_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00034/00034_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00034/00034_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00035/00035_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00036/00036_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00037/00037_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00038/00038_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00039/00039_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00040/00040_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00041/00041_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00042/00042_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00042/00042_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00042/00042_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00043/00043_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00043/00043_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00044/00044_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00044/00044_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00044/00044_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00045/00045_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00045/00045_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00046/00046_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00047/00047_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00048/00048_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00049/00049_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00050/00050_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00050/00050_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00051/00051_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00052/00052_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00053/00053_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00054/00054_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00055/00055_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00056/00056_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00056/00056_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00056/00056_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00057/00057_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00058/00058_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00058/00058_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00058/00058_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00059/00059_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00060/00060_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/00061/00061_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pts/model_L_OFF.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pts/model_L_ON.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pts/model_RGB_OFF.pt" beforeDir="false" afterPath="$PROJECT_DIR$/pts/model_RGB_OFF.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pts/model_RGB_ON.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/image.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +202,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZzX764Xp7yNwpdRcoexgK1Qpxb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,10 +212,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/pts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -54,6 +237,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/aa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_data_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="traffic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prepare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare/create_data_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,27 +308,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="traffic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/log.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="predict" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
       <module name="traffic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,16 +333,16 @@
       <item itemvalue="Python.aa (1)" />
       <item itemvalue="Python.entrance" />
       <item itemvalue="Python.image" />
-      <item itemvalue="Python.log" />
       <item itemvalue="Python.predict" />
+      <item itemvalue="Python.create_data_file" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.entrance" />
+        <item itemvalue="Python.create_data_file" />
         <item itemvalue="Python.predict" />
         <item itemvalue="Python.aa (1)" />
         <item itemvalue="Python.image" />
-        <item itemvalue="Python.log" />
       </list>
     </recent_temporary>
   </component>
@@ -193,50 +376,58 @@
       <option name="project" value="LOCAL" />
       <updated>1586151357544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="readme">
+      <created>1586155997523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586155997523</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="format and weight" />
-    <option name="LAST_COMMIT_MESSAGE" value="format and weight" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586117299180">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586117299180" />
-    <state x="473" y="127" key="CommitChangelistDialog2" timestamp="1586151357145">
+    <state x="473" y="127" key="CommitChangelistDialog2" timestamp="1586155997291">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="473" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586151357145" />
-    <state width="1659" height="225" key="GridCell.Tab.0.bottom" timestamp="1586152425296">
+    <state x="473" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586155997291" />
+    <state width="1659" height="486" key="GridCell.Tab.0.bottom" timestamp="1586273368483">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1419" height="467" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585885362967" />
-    <state width="1659" height="225" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586152425296" />
-    <state width="1659" height="225" key="GridCell.Tab.0.center" timestamp="1586152425295">
+    <state width="1659" height="486" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586273368483" />
+    <state width="1659" height="486" key="GridCell.Tab.0.center" timestamp="1586273368481">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1419" height="467" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585885362965" />
-    <state width="1659" height="225" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586152425295" />
-    <state width="1659" height="225" key="GridCell.Tab.0.left" timestamp="1586152425294">
+    <state width="1659" height="486" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586273368481" />
+    <state width="1659" height="486" key="GridCell.Tab.0.left" timestamp="1586273368480">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1419" height="467" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585885362964" />
-    <state width="1659" height="225" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586152425294" />
-    <state width="1659" height="225" key="GridCell.Tab.0.right" timestamp="1586152425295">
+    <state width="1659" height="486" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586273368480" />
+    <state width="1659" height="486" key="GridCell.Tab.0.right" timestamp="1586273368482">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1419" height="467" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585885362966" />
-    <state width="1659" height="225" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586152425295" />
+    <state width="1659" height="486" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586273368482" />
     <state x="654" y="243" key="RollbackChangesDialog" timestamp="1586069389197">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="654" y="243" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586069389197" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1586151360148">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1586155999497">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1586151360148" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1586155999497" />
     <state x="506" y="282" width="667" height="486" key="find.popup" timestamp="1586002854442">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

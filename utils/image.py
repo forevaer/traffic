@@ -6,8 +6,9 @@ from config import config
 def load_image(image_path):
     # 使用三通道，对颜色敏感，不利于泛化，采用灰度图像进行推理
     try:
-        return Image.open(image_path).convert(config.image_format.value)
-    except:
+        return Image.open(image_path).convert("RGB")
+    except Exception as e:
+        print(e)
         raise Exception(f'illegal image_format : {config.image_format}')
 
 
