@@ -33,11 +33,11 @@ predict_images = [
 train_batch = 200
 train_shuffle = True
 train_epoch = 1000
-test_epoch = 10
-test_batch = 20
+test_epoch = 1
+test_batch = 1
 test_shuffle = True
 # ====
-phase = PHASE.TEST
+phase = PHASE.PREDICT
 # ====
 learn_rate = 0.0001
 momentum = 0.9

@@ -1,7 +1,7 @@
 import torch
-from config import config, enum
+from config import config
 from utils.log import log
-from utils.image import draw_func
+from utils.image import draw_func, draw_confusion
 
 
 def TEST(model, device, loader, count):
@@ -19,10 +19,11 @@ def TEST(model, device, loader, count):
             batch_count = image.size(0)
             optimizer.zero_grad()
             with torch.no_grad():
-                pre_classify = model(image)
-                _loss = loss_func(pre_classify, classify.view(-1))
+                pre_softmax = model(image)
+                _loss = loss_func(pre_softmax, classify.view(-1))
                 # calc
-                positive_smaple = pre_classify.argmax(dim=1, keepdim=True).view(-1) == classify
+                pre_classify = pre_softmax.argmax(dim=1, keepdim=True).view(-1)
+                positive_smaple = pre_classify == classify
                 batch_correct_count = torch.sum(positive_smaple)
                 if config.weight_switch_on.value:
                     # 不同预测结果采取不同权值激励，以提高对预测错误的样本的感知<三通道中，对颜色敏感，降低颜色敏感>
@@ -31,14 +32,14 @@ def TEST(model, device, loader, count):
                     negative_loss = 0
                     batch_error_count = torch.sum(negative_sample)
                     if batch_correct_count > 0:
-                        positive_loss = loss_func(pre_classify[positive_smaple], classify[positive_smaple].view(
+                        positive_loss = loss_func(pre_softmax[positive_smaple], classify[positive_smaple].view(
                             -1)) * batch_correct_count * config.positive_weight
                     if batch_error_count > 0:
-                        negative_loss = loss_func(pre_classify[negative_sample], classify[negative_sample].view(
+                        negative_loss = loss_func(pre_softmax[negative_sample], classify[negative_sample].view(
                             -1)) * batch_error_count * config.negative_weight
                     batch_loss = positive_loss + negative_loss
                 else:
-                    batch_loss = loss_func(pre_classify, classify.view(-1)) * batch_count * config.normal_weight
+                    batch_loss = loss_func(pre_softmax, classify.view(-1)) * batch_count * config.normal_weight
                 tested_count += batch_count
                 correct_count += batch_correct_count
                 batch_acc = 1.0 * batch_correct_count / batch_count
