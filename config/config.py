@@ -37,7 +37,7 @@ test_epoch = 10
 test_batch = 20
 test_shuffle = True
 # ====
-phase = PHASE.TRAIN
+phase = PHASE.TEST
 # ====
 learn_rate = 0.0001
 momentum = 0.9
